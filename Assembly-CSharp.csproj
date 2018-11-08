@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{34FCB1E4-021D-DCC0-E244-B85AE2BB8269}</ProjectGuid>
+    <ProjectGuid>{09263EFF-BF61-B1BB-EC8E-AC42AF56C55E}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -61,26 +61,25 @@
      <Compile Include="Assets\EffectExamples\Shared\Scripts\ParticleExamples.cs" />
      <Compile Include="Assets\EffectExamples\Shared\Scripts\ParticleMenu.cs" />
      <Compile Include="Assets\Scripts\CubesPlatformController.cs" />
-     <Compile Include="Assets\Scripts\PlatformController.cs" />
      <Compile Include="Assets\Scripts\PlayerController.cs" />
      <None Include="Assets\EffectExamples\Shared\Shaders\SurfaceShader_VC.shader" />
  <Reference Include="UnityEditor.StandardEvents">
- <HintPath>D:/Unity Projects/Kaboom/Kaboom/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
+ <HintPath>D:/Unity Projects/KaboomGit/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
  </Reference>
  <Reference Include="Unity.TextMeshPro.Editor">
- <HintPath>D:/Unity Projects/Kaboom/Kaboom/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+ <HintPath>D:/Unity Projects/KaboomGit/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.PackageManagerUI.Editor">
- <HintPath>D:/Unity Projects/Kaboom/Kaboom/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
+ <HintPath>D:/Unity Projects/KaboomGit/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
  </Reference>
  <Reference Include="com.unity.postprocessing.Editor">
- <HintPath>D:/Unity Projects/Kaboom/Kaboom/Library/ScriptAssemblies/com.unity.postprocessing.Editor.dll</HintPath>
+ <HintPath>D:/Unity Projects/KaboomGit/Library/ScriptAssemblies/com.unity.postprocessing.Editor.dll</HintPath>
  </Reference>
  <Reference Include="com.unity.postprocessing.Runtime">
- <HintPath>D:/Unity Projects/Kaboom/Kaboom/Library/ScriptAssemblies/com.unity.postprocessing.Runtime.dll</HintPath>
+ <HintPath>D:/Unity Projects/KaboomGit/Library/ScriptAssemblies/com.unity.postprocessing.Runtime.dll</HintPath>
  </Reference>
  <Reference Include="Unity.TextMeshPro">
- <HintPath>D:/Unity Projects/Kaboom/Kaboom/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+ <HintPath>D:/Unity Projects/KaboomGit/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.AIModule">
  <HintPath>C:/Program Files/Unity/Hub/Editor/2018.2.14f1/Editor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>

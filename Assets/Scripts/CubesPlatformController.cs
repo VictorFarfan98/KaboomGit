@@ -16,6 +16,5 @@ public class CubesPlatformController : MonoBehaviour {
 	void LateUpdate () {
 		defaultRotation -= Input.GetAxis("Mouse X") * horizontalSpeed;
 		transform.rotation = Quaternion.Euler(0, defaultRotation, 0);
-		
 	}
 }
